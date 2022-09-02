@@ -118,7 +118,8 @@ echo.[33m»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 echo.
 echo [97m     [ 1 ] [34m» [32mAutomatic Scanner[0m[97m                 [ 2 ] [34m» [32mProgramas ScreenShare[0m
 echo [97m     [ 3 ] [34m» [32mEventvwr[0m[97m                           [ 4 ] [34m» [32mDeleted Files check[0m
-echo.
+echo.  
+echo.                                                                                                                                        credit: [34m[Zulfiqar Chowdhury#1118]
 set /p slct=[95m►  [0m
 if %slct%==1 goto scannerauto
 if %slct%==2 goto programass
